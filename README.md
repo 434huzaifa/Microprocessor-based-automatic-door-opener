@@ -5,7 +5,7 @@ This was my Computer Architecture project. I found some similar projects on onli
 - Proteus
 - Keil
 # Notes
--You have to import this library in proteus.
+- You have to import this library in proteus.
 [PIR Sensor](https://www.theengineeringprojects.com/2016/01/pir-sensor-library-proteus.html)
--Learn basic about PIR sensor. And how to use it in proteus
+- Learn basic about PIR sensor. And how to use it in proteus
 [How to use PIR sensor in Proteus and application](https://www.youtube.com/watch?v=XKNlsKJFXTE)
